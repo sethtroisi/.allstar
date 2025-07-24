@@ -1,3 +1,5 @@
 optConfig:
   optOutStrategy: true
+  optOutRepos:
+  - gemini-cli
 action: issue
